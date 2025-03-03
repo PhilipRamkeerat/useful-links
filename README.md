@@ -1,7 +1,13 @@
-# Useful Links
+# 📌 Useful Links
 
-A collection of quick links to assist in frontend Angular development.
+A curated list of resources to enhance your frontend Angular development experience.
 
-## Jest
+---
 
-- [How to Mock an Angular Service with Jest](https://medium.com/@henriquecustodia/how-to-mock-an-angular-service-with-jest-492be5a6b119)
+## 🎭 Jest - Testing Made Easy
+
+### 📖 Articles & Guides
+
+- [🔧 How to Mock an Angular Service with Jest](https://medium.com/@henriquecustodia/how-to-mock-an-angular-service-with-jest-492be5a6b119)
+
+---
